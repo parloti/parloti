@@ -8,7 +8,7 @@ Currently at **NTT DATA Europe & Latam**, delivering mission‑critical solution
 ## 🛠️ Tech Stack
 
 ### ⚛️ Frontend
-<p align="left">
+<p align="left" style="display: flex;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://angular.io/" target="_blank"><img height="48" width="48" alt="Angular" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" /></a>
   <a href="https://rxjs.dev/" target="_blank"><img height="48" width="48" alt="RxJS" title="RxJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" /></a>
